@@ -10,5 +10,5 @@ RDEPEND=>=media-libs/libpng-1.2.46 >=x11-libs/gtk+-2.24.8-r1:2 x11-libs/cairo x1
 RESTRICT=mirror strip bindist
 SLOT=0
 SRC_URI=https://update.code.visualstudio.com/1.56.0/linux-x64/stable -> visual-studio-code-1.56.0-amd64.tar.gz
-_eclasses_=desktop	c0d27bf73aa08ca05b663dbd31fbef28	pax-utils	91d47e5d20627c717aa878b9167c62a8	xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e
+_eclasses_=desktop	22952d8f27cac191d75529d4c38e6bfa	pax-utils	91d47e5d20627c717aa878b9167c62a8	xdg-utils	fffb53a53cf17c9c0c998a3c0a590c7e
 _md5_=97e93db926c73f583fa3e014d8f26f14
